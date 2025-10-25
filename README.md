@@ -1,26 +1,26 @@
-# 🚗 Concesionario POO en Python
+# Concesionario POO en Python
 
 Mini sistema de concesionario que aplica **encapsulamiento, herencia, abstracción y polimorfismo**.
 
-## 🧩 Estructura de clases
+## Estructura de clases
 - `Vehiculo` (abstracta)
 - `Automovil` (hereda de Vehiculo)
 - `Moto` (hereda de Vehiculo)
 - `concesionario_main.py` (punto de entrada)
 
-## ⚙️ Instalación
+## Instalación
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## ▶️ Ejecución
+## Ejecución
 
 ```bash
 python concesionario_main.py
 ```
 
-## 📋 Salida esperada
+## Salida esperada
 
 | Vehículo | Precio Base | Impuesto | Precio Final |
 |-----------|--------------|-----------|---------------|
